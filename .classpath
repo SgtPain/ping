@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/lauri/eclipse-workspace/AntiStealthPing/src/JDA-3.6.0_354-withDependencies.jar" sourcepath="C:/Users/lauri/eclipse-workspace/AntiStealthPing/src/JDA-3.6.0_354-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/lauri/eclipse-workspace/AntiStealthPing/src/JDA-3.6.0_354-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/lauri/eclipse-workspace/AntiStealthPing/src/jda-utilities-2.1-all.jar" sourcepath="C:/Users/lauri/eclipse-workspace/AntiStealthPing/src/jda-utilities-2.1-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/lauri/eclipse-workspace/AntiStealthPing/src/jda-utilities-2.1-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="args.txt"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
