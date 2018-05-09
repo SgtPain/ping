@@ -2,6 +2,8 @@
 
 this is a java programm that looks through all your TextChannels and sends the pings you get to a TextChannel you decide
 
+## Warning
+this uses a discord selfbot, which is not allowed by the devs. please make sure to use a private server!
 ## Dependencies
 AntiStealthPing comes with all dependencies and only needs Java 8
 
@@ -27,9 +29,9 @@ then execute the AntiStealthPing.jar file
  2. go to apperance
  3. scroll down and turn"developer mode" on
  4. right-click on a your servers symbol and then clikc on "copy id" (PLEASE use your own server! you wouldnt want everyone to see all the messages, and then get banned for spam)
- 5. paste the ID in the second line of args.txt (replace `guildID_here`)
+ 5. paste the ID in the second line of `args.txt` (replace `guildID_here`)
  6. right-click on a text channel in the server you copied before (!) and click on copy ID
- 7. paste the ID in the 3rd line of the args.txt (replace `channelID_here`)
+ 7. paste the ID in the 3rd line of the `args.txt` (replace `channelID_here`)
 
 ## IMPORTANT!!
 
@@ -38,7 +40,8 @@ then execute the AntiStealthPing.jar file
 # =\=\=\=\=GERMAN\=\=\=\=\=
 
 AntiStealthPing ist ein programm das durch alle kanäle guckt und alle @mention's die du krigst in einen privaten server sendet
-
+## Warnung
+die benutzt ein selfbot, allerdings sind selfbots von den discord entwicklern verbotn. bitte gehe sicher das der server den du benutzt private is!
 ## Dependencies
 AntiStealthPing kommt mit allen Dependencies. Das einzige was benötigt wird ist Java  8
 ## Herunterladen
@@ -67,13 +70,13 @@ folge diesem tutorial bild und füge das token ohne die `""` zeichen in die erste
     besteht wegen selfbots gebannt zu werden, und es natürlich viele
     nachrichten schickt)
 
- 5. die id in die zweite zeile von args.txt einfügen ("guildID_here"
+ 5. die id in die zweite zeile von `args.txt` einfügen ("guildID_here"
     ersetzen)
 
  6. rechtsclick auf einen textchannel in dem server und wieder auf "ID
     kopieren"
 
- 7. die id in die dritte zeile von args.txt einfügen ("guildID_here"
+ 7. die id in die dritte zeile von `args.txt` einfügen ("guildID_here"
     ersetzen)
 
 # WICHTIG!!
